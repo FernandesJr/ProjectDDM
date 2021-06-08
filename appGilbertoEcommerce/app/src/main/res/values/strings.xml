@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">appGilbertoEcommerce</string>
+    <string name="titulo_categoria">Categoria</string>
+    <string name="titulo_produtos_populares">Produtos populares</string>
+    <string name="title_activity_info_produto">InfoProduto</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="descricao">Descrição</string>
+    <string name="produtos_recentes">Produtos Recentes</string>
+    <string name="menu_drawer_home">Home</string>
+    <string name="toogle_open">Open</string>
+    <string name="toggle_close">Close</string>
+</resources>
